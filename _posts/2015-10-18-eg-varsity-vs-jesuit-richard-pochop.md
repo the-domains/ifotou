@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.eyephotou.com'
-  name: Eyephotou
-  favicon: 'http://www.eyephotou.com/favicon.ico'
-  domain: www.eyephotou.com
-keywords: []
-description: Elk Grove Varsity Football versus Jesuit 2015
-app_links: []
-isBasedOnUrl: 'http://www.eyephotou.com/Sports/Football/EG-Varsity-vs-Jesuit/'
-title: EG Varsity vs Jesuit - richard-pochop
-datePublished: '2015-10-18T00:38:49.243Z'
-dateModified: '2015-10-17T20:00:39.075Z'
-sourcePath: _posts/2015-10-18-eg-varsity-vs-jesuit-richard-pochop.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.eyephotou.com/Sports/Football/EG-Varsity-vs-Jesuit/'
+inLanguage: null
+starred: false
+keywords: []
+description: Elk Grove Varsity Football versus Jesuit 2015
+datePublished: '2015-10-18T01:26:49.183Z'
+dateModified: '2015-10-18T01:01:14.668Z'
+author: []
+related: []
+app_links: []
+title: EG Varsity vs Jesuit - richard-pochop
+sourcePath: _posts/2015-10-18-eg-varsity-vs-jesuit-richard-pochop.md
+published: true
+authors: []
+publisher:
+  name: Eyephotou
+  domain: www.eyephotou.com
+  url: 'http://www.eyephotou.com'
+  favicon: 'http://www.eyephotou.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
