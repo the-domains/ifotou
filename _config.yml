@@ -1,14 +1,14 @@
 layout_spectrum: 0.2883995
-typography_spectrum: 0.04051072
+typography_spectrum: 0.1799141
 color:
   saturation: 0.7590201
+  lightness: 0.2583244
   brandStrength: 0.1185668
-  lightness: 0.2407884
   brandColors:
     - '#9A90CF'
     - '#151517'
     - '#6F8667'
     - '#FFFFFF'
     - '#FFFF65'
-  rhythmicContrast: 0.2089595
+  rhythmicContrast: 0.4860365
 name: Ifotou
