@@ -1,14 +1,28 @@
+name: Ifotou
+favicon: null
 layout_spectrum: 0.2883995
 typography_spectrum: 0.1799141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7590201
-  lightness: 0.2583244
-  brandStrength: 0.1185668
   brandColors:
     - '#9A90CF'
     - '#151517'
     - '#6F8667'
     - '#FFFFFF'
     - '#FFFF65'
+  brandStrength: 0.8125
+  lightness: 0.2583244
+  saturation: 0.7590201
   rhythmicContrast: 0.4860365
-name: Ifotou
+purpose: []
