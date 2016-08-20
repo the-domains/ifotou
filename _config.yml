@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Richard Pochop
+  email: richard@eyephotou.com
+  url: www.eyephotou.com
 name: Ifotou
 cta:
   bucket: null
