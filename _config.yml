@@ -37,5 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: my Photolife
 description: all I want to do...
 purpose: []
