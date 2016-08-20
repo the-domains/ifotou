@@ -1,28 +1,40 @@
-name: Ifotou
-favicon: null
-layout_spectrum: 0.50446
-typography_spectrum: 0.1799141
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7590201
+  brandStrength: 0.8125
+  lightness: 0.2583244
+  brandColors:
+    - '#EEF5EE'
+    - '#1879BD'
+    - '#101B4D'
+    - '#1DA8E9'
+    - '#87C7E3'
+  rhythmicContrast: 0.4860365
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
+name: Ifotou
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9A90CF'
-    - '#151517'
-    - '#6F8667'
-    - '#FFFFFF'
-    - '#FFFF65'
-  brandStrength: 0.8125
-  lightness: 0.2583244
-  saturation: 0.7590201
-  rhythmicContrast: 0.4860365
-purpose: []
+typography_spectrum: 0.2024704
+layout_spectrum: 0.255102
